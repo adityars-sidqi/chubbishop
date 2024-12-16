@@ -36,7 +36,7 @@ Chubbishop terdiri dari beberapa microservices, termasuk:
 Untuk menjalankan Chubbishop secara lokal, ikuti langkah-langkah berikut:
 
 1. **Clone Repository**:
-   ```git clone https://github.com/username/chubbishop.git cd chubbishop```
+   ```git clone https://github.com/adityars-sidqi/chubbishop.git cd chubbishop```
 2. **Instalasi Dependensi**: Setiap microservice memiliki foldernya sendiri. Masuk ke masing-masing folder dan jalankan:
    ```cargo build```
 3. **Konfigurasi Environment**: Buat file `.env` di setiap microservice dan sesuaikan dengan konfigurasi yang diperlukan.
