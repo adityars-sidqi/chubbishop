@@ -1,0 +1,5 @@
+[workspace]
+members = [ "authorization_service",
+    "common",
+    "product_service",
+]
