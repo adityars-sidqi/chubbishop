@@ -1050,6 +1050,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "notification_service"
+version = "0.1.0"
+
+[[package]]
 name = "nu-ansi-term"
 version = "0.46.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1176,6 +1180,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "order_service"
+version = "0.1.0"
+
+[[package]]
 name = "overload"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1215,6 +1223,10 @@ name = "paste"
 version = "1.0.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "57c0d7b74b563b49d38dae00a0c37d4d6de9b432382b2892f0574ddcae73fd0a"
+
+[[package]]
+name = "payment_service"
+version = "0.1.0"
 
 [[package]]
 name = "pem-rfc7468"
@@ -2110,6 +2122,10 @@ dependencies = [
  "idna",
  "percent-encoding",
 ]
+
+[[package]]
+name = "user_service"
+version = "0.1.0"
 
 [[package]]
 name = "utf16_iter"

@@ -1,5 +1,5 @@
 [workspace]
 members = [ "authorization_service",
-    "common",
-    "product_service",
+    "common", "notification_service", "order_service", "payment_service",
+    "product_service", "user_service",
 ]
